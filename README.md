@@ -1,1 +1,3 @@
 # SOLID-Software-Engineering
+
+- prikito
