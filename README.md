@@ -1,6 +1,6 @@
 # SOLID-Software-Engineering
 
-# Cadastro de Produtos em Python
+# Cadastro de Produtos em Python:
 
 Este é um projeto de cadastro de produtos em Python, desenvolvido como exemplo de aplicação dos princípios SOLID++. Ele consiste em um sistema simples para cadastrar, remover, listar e salvar produtos, aplicando conceitos como Single Responsibility Principle (SRP), Open/Closed Principle (OCP), Liskov Substitution Principle (LSP) e Interface Segregation Principle (ISP).
 
